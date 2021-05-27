@@ -25,5 +25,3 @@ module FancyDance
       end
     end
 end
-  
-  
